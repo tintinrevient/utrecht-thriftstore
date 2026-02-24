@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Kringloop De Arm Hoograven (stichting) Kringloop Centrum Utrecht",
+    "latitude": 52.061454332347246,
+    "longitude": 5.115142897174077,
+    "sell_for": ["Furniture", "Clothing", "Books", "Household items", "Electronics"],
+    "wijk": "Zuid",
+    "buurt": "Oud Hoograven-Zuid",
+    "location_type": "Store",
+    "descriptor": "Large thrift store specializing in furniture and household goods"
+  },
+  {
+    "name": "De Waarde",
+    "latitude": 52.082630391894035,
+    "longitude": 5.110163546114332,
+    "sell_for": ["Furniture", "Clothing", "Books", "Household items", "Electronics"],
+    "wijk": "Zuidwest",
+    "buurt": "Dichterswijk",
+    "location_type": "Store",
+    "descriptor": "Popular chain thrift store with fashion and books"
+  },
+  {
+    "name": "Kringloopwinkel RataPlan Ravenswade",
+    "latitude": 52.05118472712426,
+    "longitude": 5.116730684735804,
+    "sell_for": ["Furniture", "Clothing", "Books", "Household items", "Electronics"],
+    "wijk": "",
+    "buurt": "",
+    "location_type": "Store",
+    "descriptor": "Family-friendly thrift center with diverse inventory"
+  },
+  {
+    "name": "Kringloopwinkel De Arm 247",
+    "latitude": 52.087467544660626,
+    "longitude": 5.121698861458966,
+    "sell_for": ["Furniture", "Books", "Household items", "Electronics"],
+    "wijk": "Binnenstad",
+    "buurt": "Museumkwartier",
+    "location_type": "Store",
+    "descriptor": "Family-friendly thrift center with diverse inventory"
+  },
+  {
+    "name": "Kringloopwinkel De Arm 274 (Kleding)",
+    "latitude": 52.08737525073136,
+    "longitude": 5.122342591628455,
+    "sell_for": ["Clothing"],
+    "wijk": "Binnenstad",
+    "buurt": "Museumkwartier",
+    "location_type": "Store",
+    "descriptor": "Family-friendly thrift center with diverse inventory"
+  },
+  {
+    "name": "Kringloopwinkel De Arm 266",
+    "latitude": 52.087467544660626,
+    "longitude": 5.122342591628455,
+    "sell_for": ["Furniture"],
+    "wijk": "Binnenstad",
+    "buurt": "Museumkwartier",
+    "location_type": "Store",
+    "descriptor": "Family-friendly thrift center with diverse inventory"
+  },
+  {
+    "name": "Wawollie Kringloop",
+    "latitude": 52.09689948640833,
+    "longitude": 5.1074721884420144,
+    "sell_for": ["Furniture", "Clothing", "Books", "Household items", "Electronics"],
+    "wijk": "Noordwest",
+    "buurt": "Pijlsweerd-zuid",
+    "location_type": "Store",
+    "descriptor": "Family-friendly thrift center with diverse inventory"
+  },
+  {
+    "name": "Stichting Emmaus Utrecht",
+    "latitude": 52.09220997766701,
+    "longitude": 5.1315163307696885,
+    "sell_for": ["Clothing"],
+    "wijk": "Oost",
+    "buurt": "Buiten Wittevrouwen",
+    "location_type": "Store",
+    "descriptor": "Family-friendly thrift center with diverse inventory"
+  },
+  {
+    "name": "Kraayenest Kringloop",
+    "latitude": 52.11002539676106,
+    "longitude": 5.084580327063486,
+    "sell_for": ["Clothing"],
+    "wijk": "Noordwest",
+    "buurt": "Elinkwijk e.o.",
+    "location_type": "Store",
+    "descriptor": "Family-friendly thrift center with diverse inventory"
+  },
+  {
+    "name": "Emmaus Domstad Overvecht",
+    "latitude": 52.11600597682973,
+    "longitude": 5.108591291653795,
+    "sell_for": ["Clothing"],
+    "wijk": "Overvecht",
+    "buurt": "Vechtzoom-zuid",
+    "location_type": "Store",
+    "descriptor": "Family-friendly thrift center with diverse inventory"
+  },
+  {
+    "name": "Kringloop De Wijkwinkel",
+    "latitude": 52.068766360652106,
+    "longitude": 5.1053041478247545,
+    "sell_for": ["Clothing"],
+    "wijk": "Zuidwest",
+    "buurt": "Transwijk-zuid",
+    "location_type": "Store",
+    "descriptor": "Family-friendly thrift center with diverse inventory"
+  },
+  {
+    "name": "Emmaus Domstad Parkwijk",
+    "latitude": 52.0927056907719,
+    "longitude": 5.056252078529901,
+    "sell_for": ["Clothing"],
+    "wijk": "Leidsche Rijn",
+    "buurt": "Parkwijk-noord",
+    "location_type": "Store",
+    "descriptor": "Family-friendly thrift center with diverse inventory"
+  },
+  {
+    "name": "Kringloop t groene hart",
+    "latitude": 52.1137844484598,
+    "longitude": 5.184005769558143,
+    "sell_for": ["Clothing"],
+    "wijk": "",
+    "buurt": "",
+    "location_type": "Store",
+    "descriptor": "Family-friendly thrift center with diverse inventory"
+  },
+  {
+    "name": "Kringloopwinkel RataPlan Houten",
+    "latitude": 52.02697386993841,
+    "longitude": 5.15500591025872,
+    "sell_for": ["Clothing"],
+    "wijk": "",
+    "buurt": "",
+    "location_type": "Store",
+    "descriptor": "Family-friendly thrift center with diverse inventory"
+  },
+  {
+    "name": "De Sirkel",
+    "latitude": 52.15575062579833,
+    "longitude": 5.035372564744599,
+    "sell_for": ["Clothing"],
+    "wijk": "",
+    "buurt": "",
+    "location_type": "Store",
+    "descriptor": "Family-friendly thrift center with diverse inventory"
+  }
+]
